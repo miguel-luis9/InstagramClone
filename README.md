@@ -23,3 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Parstagram](https://user-images.githubusercontent.com/90986902/140701206-23ad73ce-2947-4e9c-8d88-d97381be9c04.gif)
