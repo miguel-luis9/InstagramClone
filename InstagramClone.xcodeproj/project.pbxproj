@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		349ADF032739ADA300C5B813 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349ADF022739ADA300C5B813 /* CommentCell.swift */; };
 		34ABE61527361E5700B281A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ABE61427361E5700B281A8 /* AppDelegate.swift */; };
 		34ABE61727361E5700B281A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34ABE61627361E5700B281A8 /* SceneDelegate.swift */; };
 		34ABE61C27361E5700B281A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34ABE61A27361E5700B281A8 /* Main.storyboard */; };
@@ -44,6 +45,7 @@
 /* Begin PBXFileReference section */
 		13D392B957A0615CDB4CED39 /* Pods-InstagramClone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramClone.release.xcconfig"; path = "Target Support Files/Pods-InstagramClone/Pods-InstagramClone.release.xcconfig"; sourceTree = "<group>"; };
 		289534CDF6A4398B0CEA7C33 /* Pods-InstagramClone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramClone.debug.xcconfig"; path = "Target Support Files/Pods-InstagramClone/Pods-InstagramClone.debug.xcconfig"; sourceTree = "<group>"; };
+		349ADF022739ADA300C5B813 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		34ABE61127361E5700B281A8 /* InstagramClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InstagramClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34ABE61427361E5700B281A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		34ABE61627361E5700B281A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				34ABE64627362FE600B281A8 /* FeedViewController.swift */,
 				34ABE6482738856E00B281A8 /* CameraViewController.swift */,
 				34ABE64A2738AAEF00B281A8 /* PostCell.swift */,
+				349ADF022739ADA300C5B813 /* CommentCell.swift */,
 			);
 			path = InstagramClone;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				34ABE64727362FE600B281A8 /* FeedViewController.swift in Sources */,
 				34ABE61727361E5700B281A8 /* SceneDelegate.swift in Sources */,
 				34ABE64B2738AAEF00B281A8 /* PostCell.swift in Sources */,
+				349ADF032739ADA300C5B813 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
